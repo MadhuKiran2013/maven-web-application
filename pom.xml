@@ -100,8 +100,6 @@
 	      <url>http://3.110.166.11:8081/repository/maven-releases/</url>
 	   </snapshotRepository>
 	    
-	
-	    
 	</distributionManagement>
 	
 	<build>
