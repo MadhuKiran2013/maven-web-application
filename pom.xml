@@ -94,11 +94,11 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+	     <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://3.110.166.11:8081/repository/maven-releases/</url>
-	    </repository>
+	   </snapshotRepository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
