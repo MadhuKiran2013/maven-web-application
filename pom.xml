@@ -100,11 +100,11 @@
 	      <url>http://3.110.166.11:8081/repository/maven-releases/</url>
 	   </snapshotRepository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://3.110.166.11:8081/repository/maven-snapshots/</url>
-	    </snapshotRepository>
+	    #<snapshotRepository>
+	    #  <id>nexus</id>
+	    #   <name>Mithun Technologies Snapshot Nexus Repository </name>
+	     #  <url>http:http://3.110.166.11:8081/repository/maven-snapshots/</url>
+	   # </snapshotRepository>
 	    
 	</distributionManagement>
 	
